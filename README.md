@@ -1,21 +1,20 @@
 # MagicBit
 [中文版](README_zh.md)
 
-[Emakefun](www.emakefun.com) magicbit expansion board for micro:bit
+[Emakefun](www.emakefun.com) tarjeta de expansión para la micro:bit
 ![image](icon.png)
 
 ## Feature
 
-- Designed for robotic projects over microbit
-- On board battery source with usb charger
-- Drive 8x servos and 4x DC motors and the same time (with 3.7v battery source to VM)
-- Drive 2x Micro Stepper Motors
-- On board buzzer
-- On board 4x RGB Neo Pixels
-- On board ir receiver
-- 2xPH2.0-4Pin for i2c port and rgbultrasonic
-- 4xPH2.0-2Pin for DC motors
-
+- Diseñado para proyectos robóticos sobre microbit
+- Fuente de batería a bordo con cargador usb
+- Conduce 8x servos y 4x motores de CC y al mismo tiempo (con fuente de batería de 3.7v a VM)
+- Conduce 2x Micro motores paso a paso
+- Timbre a bordo
+- A bordo 4x RGB Neo Pixeles
+- Receptor de infrarrojos a bordo
+- 2xPH2.0-4Pin para puerto i2c y rgbultrasonic
+- 4xPH2.0-2Pin para motores DC
 ## Hardware Preview
 ### Front
 ![image](https://github.com/emakefun/emakefun-docs/blob/master/docs/micro_bit/magic_bit/magicbit_hardware_front_zh.png)
