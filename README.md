@@ -17,7 +17,7 @@
 - 4xPH2.0-2Pin para motores DC
 ## Hardware Preview
 ### Front
-![image](https://https://github.com/agarci17/pxt-magicbit/tree/master/magic_bit/magicbit_hardware_front_sp.png)
+![image](https://github.com/agarci17/pxt-magicbit/blob/master/magicbit_hardware_front_sp.png)
 
 ### Back
 ![image](https://github.com/emakefun/emakefun-docs/blob/master/docs/micro_bit/magic_bit/magicbit_hardware_back1_zh.png)
